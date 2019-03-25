@@ -10,12 +10,15 @@
   {
 
       game Game;
-
+    cout<<"Branch"<<endl;
       Game.start();
         return 0;
   }
 
-    //commit v mastere
+
+//commit v mastere
+//BRANCH ADDED HAYO
+
     /*
     Tank tank1;
     Tank tank2(50, 25, "Tiger");
