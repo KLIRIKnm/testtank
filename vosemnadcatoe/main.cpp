@@ -15,7 +15,7 @@
         return 0;
   }
 
-
+    //commit v mastere
     /*
     Tank tank1;
     Tank tank2(50, 25, "Tiger");
