@@ -10,7 +10,7 @@
   {
 
       game Game;
-
+    cout<<"Branch"<<endl;
       Game.start();
         return 0;
   }
